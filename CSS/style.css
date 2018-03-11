@@ -1,0 +1,21 @@
+body {
+	font: normal 1em arial, tahoma, sans-serif;
+	background-image: url(http://crb-olov.ru/wp-content/uploads/2017/10/geometric.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+.rvvideo {
+    width: 900px;
+}
+
+.button {
+    display: inline-block;
+    background: #0080ff;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
